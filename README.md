@@ -15,6 +15,7 @@ Created a basic REST API with NodeJS and wrote an application to test the API.
 # Languages and Tools used
     - NodeJS
     - RESTful API
+    - Axios Promises
  
  # Learning Objectives
     - Create a REST API with NodeJS
