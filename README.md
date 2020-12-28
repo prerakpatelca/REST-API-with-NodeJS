@@ -11,6 +11,16 @@ Created a basic REST API with NodeJS and wrote an application to test the API.
 * README.md - This file.
 * server.js - Process and serve requests from data in the database  (http://localhost:8080/).
 
+
+# Languages and Tools used
+    - NodeJS
+    - RESTful API
+ 
+ # Learning Objectives
+    - Create a REST API with NodeJS
+    - Use an SQLite database to read, create, modify and delete entries
+    - Create HTTP requests in NodeJS to test a REST API
+    
 #### Development
 * Make sure you install npm dependances first: `npm install`
 * To run both server and client: `npm run start`
