@@ -1,5 +1,5 @@
 # REST-API-with-NodeJS
-Created a basic REST API with NodeJS and wrote an application to test the API.
+Created a basic REST API with NodeJS and wrote an application to test the API. The REST API allows for the management of a collection of users, with the functionality of the API defined below. Created a basic REST API with NodeJS and wrote an application to test the API.
 
 #### This guide
 
