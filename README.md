@@ -27,3 +27,8 @@ Created a basic REST API with NodeJS and wrote an application to test the API. T
 * To run both server and client: `npm run start`
 * To run only server or client: `npm run server|client`
 
+# Output
+
+![alt text](https://github.com/prerakpatelca/REST-API-with-NodeJS/blob/main/Screen%20Shot%202021-01-03%20at%2010.18.07%20AM.png)
+![alt text](https://github.com/prerakpatelca/REST-API-with-NodeJS/blob/main/Screen%20Shot%202021-01-03%20at%2010.18.54%20AM.png)
+![alt text](https://github.com/prerakpatelca/REST-API-with-NodeJS/blob/main/Screen%20Shot%202021-01-03%20at%2010.19.34%20AM.png)
