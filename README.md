@@ -14,6 +14,7 @@ Created a basic REST API with NodeJS and wrote an application to test the API. T
 
 # Languages and Tools used
     - NodeJS
+    - ExpressJS
     - RESTful API
     - Axios Promises
  
